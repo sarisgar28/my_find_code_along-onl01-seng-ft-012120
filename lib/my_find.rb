@@ -9,4 +9,7 @@ def my_find(collection)
   yield (collection[i])
   i = i + 1 
 end 
-end
+i = i + 1
+ end
+ true 
+ end
